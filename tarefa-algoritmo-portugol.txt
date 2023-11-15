@@ -1,0 +1,42 @@
+	ALGORITMO > ACORDAR > ATÉ O CAFÉ DA MANHÃ
+
+INICIO
+
+1-abrir os olhos e despertar
+2-peensar nas tarefas do dia
+3-levantar da cama
+4-por o chinelo
+5-andar até o banheiro
+6-a porta esta aberta? 
+-não
+	1-pegara na maçaneta
+	2-girar e abrir a porta
+	3-entrar no banheiro
+	4-pegar a escova dental
+	5-pegar creme dental
+	6-por creme dental na escova
+	7-fechar creme dental
+	8-escovar os dentes
+	9-enxaguar a boca
+	10-lavar escova e guardar
+	11-sair do banheiro
+	
+7-sim
+	1-entrar no banheiro
+	2-pegar a escova dental
+	3-pegar creme dental
+	4-por creme dental na escova
+	5-fechar creme dental
+	6-escovar os dentes
+	7-enxaguar a boca
+	8-lavar escova e guardar
+	9-sair do banheiro
+8-ir até a mesa
+9-sentar me na cadeira
+10-pegar xicara
+11-abrir garrafa
+12-por cafè na xicara
+13-beber o café
+
+FIM
+	
